@@ -9,7 +9,7 @@ void count();
 void main()
 {
   clrscr();
-  printf(" 1:PUSH\n 2:POP\n 3:DISPLAY\n 4:COUNT\n 5:EXIT\n");
+  printf(" 1:pUSH\n 2:POP\n 3:DISPLAY\n 4:COUNT\n 5:EXIT\n");
   do
   {
     printf("\nENTER YOUR CHOICE:  ");
